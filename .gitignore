@@ -4,6 +4,7 @@ build/
 
 # MacOS Cache
 .DS_Store
+.idea
 
 
 cmake-build-debug
